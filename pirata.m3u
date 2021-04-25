@@ -1,1 +1,4 @@
-http://tecnotv.club/pul/smartv2.php?ch=DISNEYCHANNELMX
+#EXTM3U
+
+#EXTINF:-1 group-title="TELEVISION",AZ Mundo
+http://tecnotv.club/pul/smartv2.php?ch=AZMUNDOMX
